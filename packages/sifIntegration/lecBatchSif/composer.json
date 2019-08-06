@@ -1,0 +1,12 @@
+{
+    "name": "alberto.ibanez/lec-batch-sif",
+    "description": "Migraci\u0000n datos del servicio SIF",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alberto Ibañez Gamarra",
+            "email": "alberto.ibanez@neoris.com"
+        }
+    ],
+    "require": {}
+}
